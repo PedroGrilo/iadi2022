@@ -89,7 +89,7 @@ The client application should implement the following user stories:
 
 15. As a signed-in truck driver, I want to access the details of a package to change it's status and see the changes in the list of packages.
 
-16. As a signed-in user, I want to sign-out and see the main page of the application.
+16. ✅ As a signed-in user, I want to sign-out and see the main page of the application.
 
 The user stories should be presented in an IFML diagram (or several IFML diagrams) and a video that shows simultaneously the page of a user and the page of a worker. Your video should show the user introducing a package in the system, and then a sequence of workers changing status of the package until the client sees the "Delivered" status.
 
