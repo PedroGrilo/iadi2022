@@ -59,9 +59,9 @@ The application should implement security rules as prescribed in the course lect
 
 The client application should implement the following user stories:
 
-1. As an anonymous user, I want access the application and see the main page of the application.
+1. ✅ As an anonymous user, I want access the application and see the main page of the application. 
 
-2. As an anonymous user, I want to type in my username and password in order to sign in.
+2. ✅ As an anonymous user, I want to type in my username and password in order to sign in.
 
 3. As a signed-in client, I want to access the homepage and see a list with my shipments present and past, with dates, identification, and status.
 
